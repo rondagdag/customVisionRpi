@@ -45,10 +45,6 @@ namespace CustomVisionRpi
         private async Task LoadModelAsync()
         {
             //Load a machine learning model
-            //StorageFile modelFile = await StorageFile.GetFileFromApplicationUriAsync(new Uri($"ms-appx:///Assets/mnist.onnx"));
-            //modelGen = await mnistModel.CreateFromStreamAsync(modelFile as IRandomAccessStreamReference);
-
-
             StorageFile modelFile = await StorageFile.GetFileFromApplicationUriAsync(new Uri($"ms-appx:///Assets/inkshapes.onnx"));
             modelGen = await inkshapesModel.CreateFromStreamAsync(modelFile as IRandomAccessStreamReference);
         }
