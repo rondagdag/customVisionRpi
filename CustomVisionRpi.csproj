@@ -108,6 +108,30 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CustomVisionAssets\fish\i-1238b28c03144be496b7f54d82667fc6.jpg" />
+    <Content Include="CustomVisionAssets\fish\i-231b091fc794479593731791910778c8.jpg" />
+    <Content Include="CustomVisionAssets\fish\i-62b67435174a404899b1f8d9ac41e91e.jpg" />
+    <Content Include="CustomVisionAssets\fish\i-aa704200505a40c4a604b7b2cb37bf9d.jpg" />
+    <Content Include="CustomVisionAssets\fish\i-bd4c889ef2084116baa66d15726490a9.jpg" />
+    <Content Include="CustomVisionAssets\fish\i-c3b4c6d37a974866aca0150dd35fa48a.jpg" />
+    <Content Include="CustomVisionAssets\fish\i-eea74719acef41b7b86c2ce377b5ecd0.jpg" />
+    <Content Include="CustomVisionAssets\fish\i-f884041aca19489d832a42e0567c6cd8.jpg" />
+    <Content Include="CustomVisionAssets\flower\i-3d25f3d0fa794f1b969895cd6ff4607d.jpg" />
+    <Content Include="CustomVisionAssets\flower\i-58d88635031d46a98a72698118105390.jpg" />
+    <Content Include="CustomVisionAssets\flower\i-7316fd25ab8e400e8e9504998680db38.jpg" />
+    <Content Include="CustomVisionAssets\flower\i-74fbc0fb1acb480cbc0a86ebe8f2077d.jpg" />
+    <Content Include="CustomVisionAssets\flower\i-a6e84d593bf84c0188125be71f02948a.jpg" />
+    <Content Include="CustomVisionAssets\flower\i-f112298a5ae643329bc487bc7b23539f.jpg" />
+    <Content Include="CustomVisionAssets\flower\i-fa508acfbfb04f52863a57d49f8b46d3.jpg" />
+    <Content Include="CustomVisionAssets\flower\i-fdbf84389b19429c96e04a716623404a.jpg" />
+    <Content Include="CustomVisionAssets\stick_figure\i-159c05f389444a8b85f9c250d0bc2ffa.jpg" />
+    <Content Include="CustomVisionAssets\stick_figure\i-26ada946c6544ff2986a143401a6286d.jpg" />
+    <Content Include="CustomVisionAssets\stick_figure\i-4137ca274ab14c17972f2d841de4e207.jpg" />
+    <Content Include="CustomVisionAssets\stick_figure\i-6bf2c61a873649758763fd0fc920a35d.jpg" />
+    <Content Include="CustomVisionAssets\stick_figure\i-9131b88a9a3c4af79d6ddb3677a51021.jpg" />
+    <Content Include="CustomVisionAssets\stick_figure\i-b4ab8484e2be4e01984710424a3b457a.jpg" />
+    <Content Include="CustomVisionAssets\stick_figure\i-c2c171e71b4249d4a82d992311cd1d2c.jpg" />
+    <Content Include="CustomVisionAssets\stick_figure\i-e8c6b7ea4d214ac9b903fce59008afe5.jpg" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
