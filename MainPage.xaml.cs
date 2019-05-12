@@ -29,7 +29,8 @@ namespace CustomVisionRpi
             this.InitializeComponent();
             
             // Set supported inking device types.
-            inkCanvas.InkPresenter.InputDeviceTypes = Windows.UI.Core.CoreInputDeviceTypes.Mouse | Windows.UI.Core.CoreInputDeviceTypes.Pen | Windows.UI.Core.CoreInputDeviceTypes.Touch;
+            inkCanvas.InkPresenter.InputDeviceTypes = Windows.UI.Core.CoreInputDeviceTypes.Mouse | 
+                Windows.UI.Core.CoreInputDeviceTypes.Pen | Windows.UI.Core.CoreInputDeviceTypes.Touch;
             inkCanvas.InkPresenter.UpdateDefaultDrawingAttributes(
                 new Windows.UI.Input.Inking.InkDrawingAttributes()
                 {
